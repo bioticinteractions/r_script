@@ -38,3 +38,6 @@ lift <- function(df, col, factor){
   #print(agg_final)
   return(agg_final)
 }
+
+# example
+

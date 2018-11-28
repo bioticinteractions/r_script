@@ -28,3 +28,4 @@ gini_unbiased <- function(x, unbiased = TRUE, na.rm = FALSE){
 # library(MASS)
 # vec1 <- rnegbin(20,mu=3,theta=0.5) # generate a vector of random abundances from a negative binomial distribution
 # gini_unbiased(x = vec1, unbiased = T)
+
